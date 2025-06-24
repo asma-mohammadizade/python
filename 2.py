@@ -1,0 +1,24 @@
+# BMI calculator 
+
+height = input("enter your height in m: ")
+weight = input("enter your weight in kg: ")
+BMI = int(weight) / float(height) ** 2
+print(BMI)
+BMI_as_int = int(BMI)
+print(BMI_as_int)
+
+# final project
+## tip calculator:
+
+print("Welcome to the tip calculator.")
+bill = float(input("what was the total bill? $"))
+tip = int(input("what percentage tip would you like to give? 10, 12, or 15? "))
+people = int(input("how many people to split the bill? "))
+bill_with_tip = tip / 100 * bill + bill
+bill_per_person = bill_with_tip / people
+total = round(bill_per_person, 2)
+total = "{:.2f}".format(bill_per_person)
+print(f"Each person should pay ${total}")
+
+
+
