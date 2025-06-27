@@ -1,3 +1,5 @@
+# 100 Days of Python Bootcamp by Angela Yu
+
 ![dr.yu](./dr.yu.png "100 Days of Python Bootcamp by Angela Yu")
 
 This repository has the purpose of posting notes and projects carried out during the course.
@@ -10,9 +12,11 @@ Day01: Working with Variables in Python to Manage Data
 Day02: Understanding Data Types and How to Manipulate Strings
 
 Day03: Control Flow and Logical Operators
+
 Day04: Randomisation and Python Lists
+
 Day05: Python Loops
-Day06:
+
 
 
 [link title](./Day01/)
