@@ -10,3 +10,4 @@ Day02: Understanding Data Types and How to Manipulate Strings
 Day03: Control Flow and Logical Operators
 Day04: Randomisation and Python Lists
 Day05: Python Loops
+Day06:
