@@ -6,8 +6,13 @@ Disclaimer: This repository is not a copy of the classes, so the notes made are 
 
 
 Day01: Working with Variables in Python to Manage Data
+
 Day02: Understanding Data Types and How to Manipulate Strings
+
 Day03: Control Flow and Logical Operators
 Day04: Randomisation and Python Lists
 Day05: Python Loops
 Day06:
+
+
+[link title](./Day01/)
