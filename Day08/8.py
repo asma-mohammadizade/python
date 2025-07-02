@@ -1,32 +1,4 @@
-# Paint Area Calculator
-# import math
-# def paint_area_calculator(height, width, cover):
-#     area = height * width 
-#     total = math.ceil(area / cover)
-#     print(f"you'll need {total} cans of paint")
-# height_of_wall = int(input("enter Height of Wall: "))
-# width_of_wall = int(input("enter Width of wall: "))
-# coverage = 5   
-# paint_area_calculator(height=height_of_wall, width=width_of_wall, cover=coverage)
-
-# Prime Number Checker
-
-# def prime_checker(number):
-#     prime = True
-#     for x in range(2, number):
-#         if number % x == 0:
-#             prime = False
-#     if prime:
-#         print("it's a prime number")
-#     else:
-#         print("it's not a prime number")
-
-
-# n = int(input("check this number: "))
-# prime_checker(number=n)
-
 # caesar cipher
-## way 1
 
 
 import string

@@ -7,12 +7,20 @@ Disclaimer: This repository is not a copy of the classes, so the notes made are 
 
 
 
-[Day01](./Day01/): Working with Variables in Python to Manage Data
+[Day01:](./Day01/) Working with Variables in Python to Manage Data
 
 [Day02:](./Day02/) Understanding Data Types and How to Manipulate Strings
 
-Day03: Control Flow and Logical Operators
+[Day03:](./Day03/) Control Flow and Logical Operators
 
-Day04: Randomisation and Python Lists
+[Day04:](./Day04/) Randomisation and Python Lists
 
-Day05: Python Loops
+[Day05:](./Day05/) Python Loops
+
+[Day06:](./Day06/) Python Functions & Karel
+
+[Day07:](./Day07/) Hangman
+
+[Day08:](./Day08/) Function Parameters & Caesar Cipher
+
+[Day09:](./Day09/) Dictionaries, Nesting and the Secret Auction
