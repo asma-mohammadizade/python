@@ -24,3 +24,5 @@ Disclaimer: This repository is not a copy of the classes, so the notes made are 
 [Day08:](./Day08/) Function Parameters & Caesar Cipher
 
 [Day09:](./Day09/) Dictionaries, Nesting and the Secret Auction
+
+[Day10:](./Day10/) Function Return Values and the Calculator Project

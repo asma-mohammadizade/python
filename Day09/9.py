@@ -1,7 +1,10 @@
 # the secret auction program
 
+import os
 
-# from replit import clear
+def clear():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
 from art import logo
 print(logo)
 
@@ -10,6 +13,7 @@ bidding_finished = False
 
 def highest_bidder(bidding_data):
     heighest_bid = 0
+    winner = ""
     for bidder in bidding_data:
         bid_amount = bidding_data[bidder]
         if bid_amount > heighest_bid:
