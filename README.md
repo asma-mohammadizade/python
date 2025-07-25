@@ -30,3 +30,5 @@ Disclaimer: This repository is not a copy of the classes, so the notes made are 
 [Day11:](./Day11/) Blackjack Capstone Project
 
 [Day12:](./Day12/) Scope and Namespacing in Python
+
+[Day13:](./Day13/) Debugging: How to Find and Fix Errors in your Code
