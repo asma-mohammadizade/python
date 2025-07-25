@@ -28,3 +28,5 @@ Disclaimer: This repository is not a copy of the classes, so the notes made are 
 [Day10:](./Day10/) Function Return Values and the Calculator Project
 
 [Day11:](./Day11/) Blackjack Capstone Project
+
+[Day12:](./Day12/) Scope and Namespacing in Python
