@@ -32,3 +32,7 @@ Disclaimer: This repository is not a copy of the classes, so the notes made are 
 [Day12:](./Day12/) Scope and Namespacing in Python
 
 [Day13:](./Day13/) Debugging: How to Find and Fix Errors in your Code
+
+[Day14:](./Day14/) Higher Lower Game Project
+
+[Day15:](./Day15/) Local Development Environment Setup & the Coffee Machine Project

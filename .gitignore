@@ -101,3 +101,6 @@ Temporary Items
 .vscode/
 
 project.py
+game_data.py
+project14.py
+data.py
