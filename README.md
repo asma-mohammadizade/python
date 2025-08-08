@@ -38,3 +38,5 @@ Disclaimer: This repository is not a copy of the classes, so the notes made are 
 [Day15:](./Day15/) Local Development Environment Setup & the Coffee Machine Project
 
 [Day16:](./Day16/) Object Oriented Programming (OOP)
+
+[Day17:](./Day17/) Quiz Game: bject Oriented Programming (OOP): Classes, Attributes, Class Constructors (init()), Methods
