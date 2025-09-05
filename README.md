@@ -40,3 +40,5 @@ Disclaimer: This repository is not a copy of the classes, so the notes made are 
 [Day16:](./Day16/) Object Oriented Programming (OOP)
 
 [Day17:](./Day17/) Quiz Game: bject Oriented Programming (OOP): Classes, Attributes, Class Constructors (init()), Methods
+
+[Day18:](./Day18/) Turtle Graphics and GUIs
